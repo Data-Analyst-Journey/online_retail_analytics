@@ -1,0 +1,10 @@
+# Data
+data/raw/*.xlsx
+
+#Python
+__pycache__/
+*.pyc 
+
+#dbt
+dbt/online_retail_II_dbt/target/
+dbt/online_retail_II_dbt/logs/
