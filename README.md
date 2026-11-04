@@ -70,5 +70,5 @@ Here is a glimpse of the 3-page interactive dashboard:
 
 ---
 **Author:** Samaneh Kavianfar
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-URL
-- **GitHub:** https://github.com/YOUR-GITHUB-URL
+- **LinkedIn:**https://www.linkedin.com/in/samaneh-kavianfar/
+- **GitHub:**https://github.com/Data-Analyst-Journey
